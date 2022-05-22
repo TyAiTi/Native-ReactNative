@@ -1,5 +1,4 @@
-# msgr-android-playground
-Android playground <br/>
+
 Integration with Existing Apps <br/>
 At folder Navigation, your open terminal <br/>
 
